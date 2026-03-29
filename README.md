@@ -20,18 +20,9 @@ Driven to secure applications, networks, and users against modern attack vectors
 
 
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=tokyonight" />
-</p>
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=tokyonight" />
 </p>
-
-
                  
