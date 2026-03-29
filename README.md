@@ -14,29 +14,6 @@ Driven to secure applications, networks, and users against modern attack vectors
 
 
 
-
-
-
-
-
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=tokyonight" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
