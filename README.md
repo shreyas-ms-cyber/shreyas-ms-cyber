@@ -38,7 +38,8 @@ Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authe
 MySQL, MongoDB (Access Control & Basic Hardening)
 
 🚀 Applied Projects:
-404 Intelligence (Cyber Threat Simulation Platform), Secure File Vault, Password Strength Analyzer
+404 Intelligence – AI-Powered Cybersecurity Awareness Platform (utilizes interactive roasting techniques to simulate phishing attacks and educate users on real-world cyber threats), 
+Secure File Vault – Encryption-Based Data Protection Systems
 
 
 
