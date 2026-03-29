@@ -43,6 +43,12 @@ Secure File Vault – Encryption-Based Data Protection Systems
 
 
 
+## 📜 Certifications
+
+- Introduction to AI/ML – Google [View]
+- Junior Cybersecurity Analyst – Cisco [View]
+- DevOps from Zero to Hero – MindLuster [View]
+
 
 
 ## 📊 GitHub Stats
