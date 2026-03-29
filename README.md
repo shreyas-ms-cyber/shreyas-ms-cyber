@@ -7,6 +7,23 @@ Driven to secure applications, networks, and users against modern attack vectors
 
 📬 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com)
 
+## 🛡️ Cybersecurity Experience
+
+🔐 Security-Focused Project Development  
+- Engineered **404 Intelligence**, an AI-driven cybersecurity awareness platform that educates users through interactive roasting-based simulations of phishing and social engineering attacks.  
+- Designed and implemented a **Secure File Vault** using encryption techniques and access control mechanisms.  
+
+🧪 Security Analysis & Testing  
+- Conducted vulnerability assessments and basic penetration testing practices in controlled environments.  
+- Utilized tools such as Nmap and Wireshark for network scanning and traffic analysis.  
+- Studied and applied OWASP Top 10 principles to identify and mitigate common web vulnerabilities.  
+
+⚙️ Practical Security Implementation  
+- Integrated authentication systems, password security mechanisms, and basic multi-factor authentication concepts in projects.  
+
+📚 Continuous Skill Development  
+- Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
+
 
 ## 🛠️ Technical Arsenal
 
