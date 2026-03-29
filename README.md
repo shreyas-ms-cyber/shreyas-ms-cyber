@@ -5,7 +5,7 @@ I specialize in identifying security gaps, simulating attacks, and building defe
 
 Driven to secure applications, networks, and users against modern attack vectors.
 
-📬 Let’s Connect: [LinkedIn](www.linkedin.com/in/shreyas-m-s-cyber) | [Email](shreyasvaishnav40@gmail.com)
+📬 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com)
 
 
                  
