@@ -8,19 +8,16 @@ Driven to secure applications, networks, and users against modern attack vectors
 📬 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com)
 
 ## 🛡️ Cybersecurity Experience
-Cybersecurity Intern – InternCertify
-🔗 https://interncertify.com/
+### Cybersecurity Intern
 
-Successfully completed a hands-on Cybersecurity Internship, gaining practical exposure to real-world security concepts, tools, and methodologies.
-Performed vulnerability assessments and basic penetration testing in controlled lab environments, identifying system weaknesses and recommending mitigation strategies.
-Worked with industry-standard tools such as Nmap (network scanning) and Wireshark (packet analysis) to analyze network traffic and detect anomalies.
-Applied OWASP Top 10 security principles to identify and mitigate common web vulnerabilities including SQL Injection, Cross-Site Scripting (XSS), and CSRF.
-Gained foundational experience in threat detection, log analysis, and SIEM concepts, understanding how security events are monitored and handled.
-Strengthened knowledge in network security, ethical hacking basics, and secure coding practices.
+InternCertify (Cybersecurity Training & Internship)  
+[InternCertify.com — Verify Certificate](https://interncertify.com/verify/your-id)
 
-📜 Certificate:
-👉 View Certificate: https://interncertify.com/verify
- (Replace with your actual certificate verification link if available)
+• Performed vulnerability assessments and basic penetration testing in controlled environments, identifying critical security vulnerabilities and recommending mitigation strategies.  
+• Utilized tools such as Nmap and Wireshark for advanced network scanning, packet analysis, and anomaly detection.  
+• Applied OWASP Top 10 principles to identify and remediate web application vulnerabilities including SQL Injection, Cross-Site Scripting (XSS), and CSRF.  
+• Gained hands-on experience in SIEM fundamentals, log analysis, and incident response workflows for real-world threat scenarios.  
+• Strengthened expertise in network security, ethical hacking methodologies, and secure system design principles.  
 
 🔐 Security-Focused Project Development  
 - Engineered **404 Intelligence**, an AI-driven cybersecurity awareness platform that educates users through interactive roasting-based simulations of phishing and social engineering attacks.  
