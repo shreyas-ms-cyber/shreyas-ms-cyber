@@ -11,7 +11,7 @@ Driven to secure applications, networks, and users against modern attack vectors
 ### Cybersecurity Intern
 
 InternCertify (Cybersecurity Training & Internship)  
-[Interncertify.com — Certificate](https://interncertify.com/verify/your-id)
+[InternCertify.com](https://interncertify.com/) — [Certificate](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
 
 • Performed vulnerability assessments and basic penetration testing in controlled environments, identifying critical security vulnerabilities and recommending mitigation strategies.  
 • Utilized tools such as Nmap and Wireshark for advanced network scanning, packet analysis, and anomaly detection.  
