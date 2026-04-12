@@ -74,6 +74,8 @@ Secure File Vault – Encryption-Based Data Protection Systems
 ## 📜 Certifications
 
 - Junior Cybersecurity Analyst – Cisco [View](https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk)
+
+
 ## 🪪 Certifications
 
 <table width="100%" style="border:none;">
@@ -84,13 +86,17 @@ Secure File Vault – Encryption-Based Data Protection Systems
     </td>
   </tr>
 </table>
+
 ## 🪪 Certifications
 
-<div style="display: flex; justify-content: space-between;">
-  <b>Junior Cybersecurity Analyst – Cisco</b>
-  <a href="PASTE_LINK_HERE">View Certificate</a>
-</div>
-
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;"><b>Junior Cybersecurity Analyst – Cisco</b></td>
+    <td align="right" style="border: none; padding: 0;">
+      <a href="PASTE_LINK_HERE">View Certificate</a>
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 GitHub Stats
