@@ -84,6 +84,12 @@ Secure File Vault – Encryption-Based Data Protection Systems
     </td>
   </tr>
 </table>
+## 🪪 Certifications
+
+<div style="display: flex; justify-content: space-between;">
+  <b>Junior Cybersecurity Analyst – Cisco</b>
+  <a href="PASTE_LINK_HERE">View Certificate</a>
+</div>
 
 
 
