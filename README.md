@@ -8,6 +8,19 @@ Driven to secure applications, networks, and users against modern attack vectors
 📬 Let’s Connect: [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com)
 
 ## 🛡️ Cybersecurity Experience
+Cybersecurity Intern – InternCertify
+🔗 https://interncertify.com/
+
+Successfully completed a hands-on Cybersecurity Internship, gaining practical exposure to real-world security concepts, tools, and methodologies.
+Performed vulnerability assessments and basic penetration testing in controlled lab environments, identifying system weaknesses and recommending mitigation strategies.
+Worked with industry-standard tools such as Nmap (network scanning) and Wireshark (packet analysis) to analyze network traffic and detect anomalies.
+Applied OWASP Top 10 security principles to identify and mitigate common web vulnerabilities including SQL Injection, Cross-Site Scripting (XSS), and CSRF.
+Gained foundational experience in threat detection, log analysis, and SIEM concepts, understanding how security events are monitored and handled.
+Strengthened knowledge in network security, ethical hacking basics, and secure coding practices.
+
+📜 Certificate:
+👉 View Certificate: https://interncertify.com/verify
+ (Replace with your actual certificate verification link if available)
 
 🔐 Security-Focused Project Development  
 - Engineered **404 Intelligence**, an AI-driven cybersecurity awareness platform that educates users through interactive roasting-based simulations of phishing and social engineering attacks.  
