@@ -12,7 +12,7 @@ Driven to secure applications, networks, and users against modern attack vectors
 
 InternCertify - Cybersecurity Training & Internship
 
-[InternCertify.com](https://interncertify.com/) — [Certificate](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[InternCertify.com](https://interncertify.com/) — [Certificate](https://drive.google.com/file/d/12opyuop6kOIRtW1EJHVjc2A1eGNF-g3J/view?usp=drivesdk)
 
 • Performed vulnerability assessments and basic penetration testing in controlled environments, identifying critical security vulnerabilities and recommending mitigation strategies.  
 • Utilized tools such as Nmap and Wireshark for advanced network scanning, packet analysis, and anomaly detection.  
@@ -73,7 +73,7 @@ Secure File Vault – Encryption-Based Data Protection Systems
 
 ## 📜 Certifications
 
-- Junior Cybersecurity Analyst – Cisco                         [View](https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk)
+- Junior Cybersecurity Analyst – Cisco [View](https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk)
 
 ## 📊 GitHub Stats
 
