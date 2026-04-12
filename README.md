@@ -70,12 +70,6 @@ MySQL, MongoDB (Access Control & Basic Hardening)
 Secure File Vault – Encryption-Based Data Protection Systems
 
 
-
-## 📜 Certifications
-
-- Junior Cybersecurity Analyst – Cisco [View](https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk)
-
-
 ## 🪪 Certifications
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
