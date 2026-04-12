@@ -80,7 +80,7 @@ Secure File Vault – Encryption-Based Data Protection Systems
 
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <span><b>Junior Cybersecurity Analyst – Cisco</b></span>
-  <span><a href="PASTE_LINK_HERE">View Certificate</a></span>
+  <span><a href="https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk">View Certificate</a></span>
 </div>
 
 
@@ -90,13 +90,3 @@ Secure File Vault – Encryption-Based Data Protection Systems
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
 </p>
 
-
-
-## 🪪 Certifications
-
-<div style="display: flex; width: 100%;">
-  <b>Junior Cybersecurity Analyst – Cisco</b>
-  <span style="flex: 1;"></span>
-  <a href="PASTE_LINK_HERE">View Certificate</a>
-</div>
-                 
