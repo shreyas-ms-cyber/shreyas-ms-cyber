@@ -99,8 +99,9 @@ Secure File Vault – Encryption-Based Data Protection System
 
  
 ## 📊 GitHub Intelligence Dashboard
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
 </p>
 
 <p align="center">
@@ -109,36 +110,4 @@ Secure File Vault – Encryption-Based Data Protection System
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
-
-
-## 📊 GitHub Intelligence Dashboard
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-ms-cyber&theme=matrix&no-frame=true&margin-w=10&row=1&column=7"/>
-</p>
-
-
-
-
-## 📊 GitHub Intelligence Dashboard
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shreyas-ms-cyber&theme=flat&no-frame=true&margin-w=10"/>
-</p>
-
-
-## 📊 GitHub Intelligence Dashboard
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
 </p>
