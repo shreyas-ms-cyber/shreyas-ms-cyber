@@ -36,16 +36,17 @@ InternCertify - Cybersecurity Training & Internship
 - Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
 
 ## 🏆 Hackathon Achievements
+
 Rajeev Institute of Technology – Hackathon  
 
-Rajeev Institute of Technology — [3rd Place Certificate](PASTE_3RD_PLACE_CERTIFICATE_LINK)
+Rajeev Institute of Technology — [3rd Place Award](PASTE_3RD_PLACE_CERTIFICATE_LINK)
 
-• Achieved **3rd place** in a competitive hackathon by demonstrating strong problem-solving and technical skills.  
-• Analyzed real-world problem statements and developed innovative solution approaches under time constraints.  
-• Applied structured thinking and logical design to build efficient and scalable solutions.  
-• Collaborated effectively within a team, contributing to ideation, execution, and final presentation.  
-• Demonstrated adaptability and rapid learning while working with new concepts in a high-pressure environment.  
-• Presented solutions to evaluators, showcasing clear communication and technical articulation skills.  
+• Secured **3rd place** in a competitive hackathon, demonstrating strong analytical thinking and technical problem-solving under pressure.  
+• Evaluated real-world problem statements and formulated innovative, scalable solution strategies within strict time constraints.  
+• Applied structured problem-solving methodologies, optimizing efficiency and feasibility of proposed solutions.  
+• Collaborated in a team-driven environment, contributing to ideation, solution architecture, and final delivery.  
+• Demonstrated adaptability by quickly understanding and applying new technologies and concepts during the competition.  
+• Effectively presented solutions to judges, showcasing strong communication, technical articulation, and reasoning skills.  
 ## 🛠️ Technical Arsenal
 
 🔐 Cybersecurity Expertise:
