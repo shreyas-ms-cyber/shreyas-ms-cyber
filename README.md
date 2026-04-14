@@ -34,6 +34,7 @@ InternCertify - Cybersecurity Training & Internship
 
 📚 Continuous Skill Development  
 - Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
+
 ## 🏆 Hackathon Achievements
 
 <div style="display: flex; width: 100%;">
@@ -43,10 +44,11 @@ InternCertify - Cybersecurity Training & Internship
 </div>
 
 <ul>
-  <li>Developed a cybersecurity-based solution focused on phishing awareness and attack simulation.</li>
-  <li>Simulated real-world social engineering scenarios to educate users on modern cyber threats.</li>
-  <li>Collaborated in a team to design and present a functional prototype within strict timelines.</li>
-  <li>Applied secure design principles and problem-solving techniques to address real-world challenges.</li>
+  <li>Analyzed real-world problem statements and designed innovative technical solutions under competitive conditions.</li>
+  <li>Applied structured problem-solving methodologies and critical thinking to develop efficient and scalable approaches.</li>
+  <li>Collaborated effectively within a team, contributing to ideation, solution design, and final presentation.</li>
+  <li>Demonstrated adaptability and quick learning by working with new concepts and technologies in a time-constrained environment.</li>
+  <li>Presented solutions to evaluators, showcasing strong communication and technical articulation skills.</li>
 </ul>
 
 ## 🛠️ Technical Arsenal
