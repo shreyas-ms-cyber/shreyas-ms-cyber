@@ -34,7 +34,20 @@ InternCertify - Cybersecurity Training & Internship
 
 📚 Continuous Skill Development  
 - Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
+## 🏆 Hackathon Achievements
 
+<div style="display: flex; width: 100%;">
+  <b>🥉 3rd Place – Hackathon @ Rajeev Institute of Technology</b>
+  <span style="flex: 1;"></span>
+  <a href="PASTE_3RD_PLACE_CERTIFICATE_LINK">View Award</a>
+</div>
+
+<ul>
+  <li>Developed a cybersecurity-based solution focused on phishing awareness and attack simulation.</li>
+  <li>Simulated real-world social engineering scenarios to educate users on modern cyber threats.</li>
+  <li>Collaborated in a team to design and present a functional prototype within strict timelines.</li>
+  <li>Applied secure design principles and problem-solving techniques to address real-world challenges.</li>
+</ul>
 
 ## 🛠️ Technical Arsenal
 
