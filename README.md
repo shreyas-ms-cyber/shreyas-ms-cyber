@@ -25,9 +25,9 @@ InternCertify - Cybersecurity Training & Internship
 - Designed and implemented a **Secure File Vault** using encryption techniques and access control mechanisms.  
 
 🧪 Security Analysis & Testing  
-- Conducted vulnerability assessments and basic penetration testing practices in controlled environments.  
-- Utilized tools such as Nmap and Wireshark for network scanning and traffic analysis.  
-- Studied and applied OWASP Top 10 principles to identify and mitigate common web vulnerabilities.  
+- Analyzed application behavior and identified potential security weaknesses during project development.  
+- Applied secure coding practices and validation techniques to minimize common attack vectors.  
+- Focused on improving system resilience against common web-based threats.
 
 ⚙️ Practical Security Implementation  
 - Integrated authentication systems, password security mechanisms, and basic multi-factor authentication concepts in projects.  
@@ -39,7 +39,7 @@ InternCertify - Cybersecurity Training & Internship
 
 Rajeev Institute of Technology – Hackathon  
 
-Rajeev Institute of Technology — [3rd Place Award](PASTE_3RD_PLACE_CERTIFICATE_LINK)
+Rajeev Institute of Technology — [View 3rd Place Award](PASTE_3RD_PLACE_CERTIFICATE_LINK)
 
 • Secured **3rd place** in a competitive hackathon, demonstrating strong analytical thinking and technical problem-solving under pressure.  
 • Evaluated real-world problem statements and formulated innovative, scalable solution strategies within strict time constraints.  
@@ -49,34 +49,34 @@ Rajeev Institute of Technology — [3rd Place Award](PASTE_3RD_PLACE_CERTIFICATE
 • Effectively presented solutions to judges, showcasing strong communication, technical articulation, and reasoning skills.  
 ## 🛠️ Technical Arsenal
 
-🔐 Cybersecurity Expertise:
+🔐 Cybersecurity Expertise
 Threat Modeling, Vulnerability Assessment, Penetration Testing (Basics), Incident Response, Security Awareness Engineering
 
-💻 Programming & Automation:
+💻 Programming & Automation
 Python (Security Tools Development), JavaScript, Bash Scripting, C/C++
 
-🌐 Web Security:
+🌐 Web Security
 OWASP Top 10, XSS, SQL Injection, CSRF, Authentication Bypass, Secure API Design
 
-🛠️ Security Tools & Frameworks:
+🛠️ Security Tools & Frameworks
 Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper
 
-🖥️ Platforms & Environments:
+🖥️ Platforms & Environments
 Kali Linux, Ubuntu, Windows
 
-☁️ Cloud & DevSecOps:
+☁️ Cloud & DevSecOps
 AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Fundamentals
 
-🧪 Security Operations:
+🧪 Security Operations
 Log Analysis, Network Monitoring, Threat Detection, Basic SIEM Concepts
 
-🔑 Cryptography:
+🔑 Cryptography
 Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authentication (MFA)
 
-📊 Database Security:
+📊 Database Security
 MySQL, MongoDB (Access Control & Basic Hardening)
 
-🚀 Applied Projects:
+🚀 Applied Projects
 404 Intelligence – AI-Powered Cybersecurity Awareness Platform (utilizes interactive roasting techniques to simulate phishing attacks and educate users on real-world cyber threats), 
 Secure File Vault – Encryption-Based Data Protection Systems
 
