@@ -97,13 +97,7 @@ Secure File Vault – Encryption-Based Data Protection System
   </span>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
-</p>
-
-
+ 
 ## 📊 GitHub Intelligence Dashboard
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=highcontrast&hide_border=true" />
