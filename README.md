@@ -90,7 +90,12 @@ Secure File Vault – Encryption-Based Data Protection System
     <a href="https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk">View Certificate</a>
   </span>
 </p>
-
+<p>
+  <b>Hackathon Participation – Rajeev Institute of Technology</b>
+  <span style="float:right;">
+    <a href="PASTE_PARTICIPATION_CERTIFICATE_LINK">View Certificate</a>
+  </span>
+</p>
 
 ## 📊 GitHub Stats
 
