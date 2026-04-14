@@ -36,6 +36,9 @@ InternCertify - Cybersecurity Training & Internship
 - Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
 
 ## 🏆 Hackathon Achievements
+Rajeev Institute of Technology – Hackathon  
+
+3rd Place — [View Certificate](YOUR_LINK)
 
 Rajeev Institute of Technology – Hackathon  
 
