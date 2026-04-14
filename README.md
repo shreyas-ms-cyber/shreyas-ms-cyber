@@ -47,38 +47,39 @@ Rajeev Institute of Technology — [View 3rd Place Award](PASTE_3RD_PLACE_CERTIF
 • Collaborated in a team-driven environment, contributing to ideation, solution architecture, and final delivery.  
 • Demonstrated adaptability by quickly understanding and applying new technologies and concepts during the competition.  
 • Effectively presented solutions to judges, showcasing strong communication, technical articulation, and reasoning skills.  
+
 ## 🛠️ Technical Arsenal
 
-🔐 Cybersecurity Expertise
-Threat Modeling, Vulnerability Assessment, Penetration Testing (Basics), Incident Response, Security Awareness Engineering
+🔐 **Cybersecurity Expertise**  
+Threat Modeling, Vulnerability Assessment, Penetration Testing (Basics), Incident Response, Security Awareness Engineering  
 
-💻 Programming & Automation
-Python (Security Tools Development), JavaScript, Bash Scripting, C/C++
+💻 **Programming & Automation**  
+Python (Security Tools Development), JavaScript, Bash Scripting, C/C++  
 
-🌐 Web Security
-OWASP Top 10, XSS, SQL Injection, CSRF, Authentication Bypass, Secure API Design
+🌐 **Web Security**  
+OWASP Top 10, XSS, SQL Injection, CSRF, Authentication Bypass, Secure API Design  
 
-🛠️ Security Tools & Frameworks
-Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper
+🛠️ **Security Tools & Frameworks**  
+Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper  
 
-🖥️ Platforms & Environments
-Kali Linux, Ubuntu, Windows
+🖥️ **Platforms & Environments**  
+Kali Linux, Ubuntu, Windows  
 
-☁️ Cloud & DevSecOps
-AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Fundamentals
+☁️ **Cloud & DevSecOps**  
+AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Fundamentals  
 
-🧪 Security Operations
-Log Analysis, Network Monitoring, Threat Detection, Basic SIEM Concepts
+🧪 **Security Operations**  
+Log Analysis, Network Monitoring, Threat Detection, Basic SIEM Concepts  
 
-🔑 Cryptography
-Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authentication (MFA)
+🔑 **Cryptography**  
+Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authentication (MFA)  
 
-📊 Database Security
-MySQL, MongoDB (Access Control & Basic Hardening)
+📊 **Database Security**  
+MySQL, MongoDB (Access Control & Basic Hardening)  
 
-🚀 Applied Projects
-404 Intelligence – AI-Powered Cybersecurity Awareness Platform (utilizes interactive roasting techniques to simulate phishing attacks and educate users on real-world cyber threats), 
-Secure File Vault – Encryption-Based Data Protection Systems
+🚀 **Applied Projects**  
+404 Intelligence – AI-Powered Cybersecurity Awareness Platform (simulates phishing attacks and educates users on real-world threats)  
+Secure File Vault – Encryption-Based Data Protection System  
 
 
 ## 🪪 Certifications
