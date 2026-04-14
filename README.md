@@ -38,10 +38,6 @@ InternCertify - Cybersecurity Training & Internship
 ## 🏆 Hackathon Achievements
 Rajeev Institute of Technology – Hackathon  
 
-3rd Place — [View Certificate](YOUR_LINK)
-
-Rajeev Institute of Technology – Hackathon  
-
 Rajeev Institute of Technology — [3rd Place Certificate](PASTE_3RD_PLACE_CERTIFICATE_LINK)
 
 • Achieved **3rd place** in a competitive hackathon by demonstrating strong problem-solving and technical skills.  
