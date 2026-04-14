@@ -42,7 +42,7 @@ Rajeev Institute of Technology – Hackathon
 
 Rajeev Institute of Technology – Hackathon  
 
-[Rajeev Institute of Technology](PASTE_COLLEGE_OR_EVENT_LINK_IF_ANY) — [3rd Place Certificate](PASTE_3RD_PLACE_CERTIFICATE_LINK)
+Rajeev Institute of Technology — [3rd Place Certificate](PASTE_3RD_PLACE_CERTIFICATE_LINK)
 
 • Achieved **3rd place** in a competitive hackathon by demonstrating strong problem-solving and technical skills.  
 • Analyzed real-world problem statements and developed innovative solution approaches under time constraints.  
