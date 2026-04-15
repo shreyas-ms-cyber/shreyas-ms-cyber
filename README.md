@@ -93,7 +93,7 @@ Secure File Vault – Encryption-Based Data Protection System
 <p>
   <b>Hackathon Participation – Rajeev Institute of Technology</b>
   <span style="float:right;">
-    <a href="PASTE_PARTICIPATION_CERTIFICATE_LINK">View Certificate</a>
+    <a href="https://drive.google.com/file/d/1PpEvom1MfAqMURMKBDH47c4Fx2rOMD1d/view?usp=drivesdk">View Certificate</a>
   </span>
 </p>
 
