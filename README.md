@@ -103,7 +103,7 @@ MySQL, MongoDB (Access Control & Basic Hardening)
 
 Secure File Vault – Encryption-Based Data Protection System implementing secure storage and access control mechanisms  
 
-SOC Detection Engine (In Progress) – Detection-driven log analysis system designed to identify brute-force attacks, anomalous login patterns, and potential indicators of compromise through rule-based alerting
+SOC Detection Engine – Detection-driven log analysis system designed to identify brute-force attacks, anomalous login patterns, and potential indicators of compromise through rule-based alerting
 
 
 ## 🪪 Certifications
