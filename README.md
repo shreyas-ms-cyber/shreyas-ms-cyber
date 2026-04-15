@@ -33,15 +33,24 @@ InternCertify - Cybersecurity Training & Internship
 
 
 🧪 Security Analysis & Testing  
-- Analyzed application behavior and identified potential security weaknesses during project development.  
-- Applied secure coding practices and validation techniques to minimize common attack vectors.  
-- Focused on improving system resilience against common web-based threats.
+- Analyzed application behavior to identify security weaknesses and potential exploitation points during development.  
+- Simulated real-world attack scenarios to understand detection gaps and improve defensive strategies.  
+- Applied secure coding practices and validation mechanisms to minimize exposure to common web-based vulnerabilities.
+
 
 ⚙️ Practical Security Implementation  
-- Integrated authentication systems, password security mechanisms, and basic multi-factor authentication concepts in projects.  
+- Implemented authentication workflows, password security mechanisms, and multi-factor authentication concepts in security-focused applications.  
+- Integrated defensive security practices into development workflows to enhance system resilience.
+- - Designing detection logic for identifying brute-force attacks, suspicious authentication behavior, and anomalous network activity  
+- Mapping attacker techniques to detection strategies based on real-world threat scenarios  
+- Working toward implementing SIEM-based log monitoring, alerting pipelines, and event correlation mechanisms  
+- Focused on reducing false positives and improving detection accuracy through behavioral analysis
+
 
 📚 Continuous Skill Development  
-- Actively learning advanced cybersecurity concepts including threat detection, SIEM basics, and incident response strategies.
+- Actively advancing expertise in Threat Detection, SIEM Engineering, and Incident Response methodologies  
+- Developing deeper understanding of log correlation, attack pattern recognition, and SOC operations workflows
+
 
 ## 🏆 Hackathon Achievements
 
@@ -59,7 +68,7 @@ Rajeev Institute of Technology — [View 3rd Place Award](PASTE_3RD_PLACE_CERTIF
 ## 🛠️ Technical Arsenal
 
 🔐 **Cybersecurity Expertise**  
-Threat Modeling, Vulnerability Assessment, Penetration Testing (Basics), Incident Response, Security Awareness Engineering  
+Threat Modeling, Vulnerability Assessment, Penetration Testing (Foundational), Incident Response, Security Awareness Engineering, Detection Strategy Development
 
 💻 **Programming & Automation**  
 Python (Security Tools Development), JavaScript, Bash Scripting, C/C++  
@@ -74,10 +83,10 @@ Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper
 Kali Linux, Ubuntu, Windows  
 
 ☁️ **Cloud & DevSecOps**  
-AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Fundamentals  
+AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Concepts 
 
 🧪 **Security Operations**  
-Log Analysis, Network Monitoring, Threat Detection, Basic SIEM Concepts  
+Log Analysis, Threat Detection, Security Monitoring, Incident Response, SIEM Fundamentals, Alert Triage, Event Correlation
 
 🔑 **Cryptography**  
 Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authentication (MFA)  
@@ -86,8 +95,11 @@ Hashing Algorithms, Encryption Techniques, Password Security, Multi-Factor Authe
 MySQL, MongoDB (Access Control & Basic Hardening)  
 
 🚀 **Applied Projects**  
-404 Intelligence – AI-Powered Cybersecurity Awareness Platform (simulates phishing attacks and educates users on real-world threats)  
-Secure File Vault – Encryption-Based Data Protection System  
+404 Intelligence – AI-Powered Adversarial Awareness Platform simulating phishing and social engineering attacks to enhance threat detection awareness  
+
+Secure File Vault – Encryption-Based Data Protection System implementing secure storage and access control mechanisms  
+
+SOC Detection Engine (In Progress) – Detection-driven log analysis system designed to identify brute-force attacks, anomalous login patterns, and potential indicators of compromise through rule-based alerting
 
 
 ## 🪪 Certifications
