@@ -1,6 +1,6 @@
 💫 About Me
 
-Cyber Security Analyst | SOC Operations | Threat Detection Engineering | SIEM & Log Analysis | Incident Response | Adversary Simulation
+Cyber Security Analyst | SOC Operations | Threat Detection Engineering | SIEM & Log Analysis | Incident Response | Adversary Simulation | Sytem Thinker 
 
 I specialize in analyzing system and network telemetry to identify indicators of compromise, simulate adversarial behavior, and engineer detection-driven defense mechanisms against evolving cyber threats. My work focuses on bridging offensive security techniques with defensive monitoring to enhance real-time threat visibility and response.
 
