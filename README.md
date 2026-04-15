@@ -23,9 +23,14 @@ InternCertify - Cybersecurity Training & Internship
 • Analyzed authentication and system logs to identify indicators of compromise such as brute-force attempts, unauthorized access patterns, and abnormal system behavior.  
 • Gained exposure to SIEM workflows including log ingestion, event correlation concepts, and basic incident triage in simulated SOC environments.  
 • Strengthened understanding of attack lifecycle (reconnaissance → exploitation → detection → response) and its application in defensive security engineering.  
+
+
+
 🔐 Security-Focused Project Development  
-- Engineered **404 Intelligence**, an AI-driven cybersecurity awareness platform that educates users through interactive roasting-based simulations of phishing and social engineering attacks.  
-- Designed and implemented a **Secure File Vault** using encryption techniques and access control mechanisms.  
+- Engineered **404 Intelligence – Adversarial Awareness Platform**, an AI-driven system that simulates phishing and social engineering attacks to model real-world attacker behavior and enhance user-level threat detection awareness.  
+
+- Designed and implemented **Secure File Vault – Encryption & Access Control System**, leveraging cryptographic techniques and access control mechanisms to protect sensitive data against unauthorized access and potential data breaches.
+
 
 🧪 Security Analysis & Testing  
 - Analyzed application behavior and identified potential security weaknesses during project development.  
