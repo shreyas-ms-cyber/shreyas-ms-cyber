@@ -41,7 +41,7 @@ InternCertify - Cybersecurity Training & Internship
 ⚙️ Practical Security Implementation  
 - Implemented authentication workflows, password security mechanisms, and multi-factor authentication concepts in security-focused applications.  
 - Integrated defensive security practices into development workflows to enhance system resilience.
-- - Designing detection logic for identifying brute-force attacks, suspicious authentication behavior, and anomalous network activity  
+- Designing detection logic for identifying brute-force attacks, suspicious authentication behavior, and anomalous network activity  
 - Mapping attacker techniques to detection strategies based on real-world threat scenarios  
 - Working toward implementing SIEM-based log monitoring, alerting pipelines, and event correlation mechanisms  
 - Focused on reducing false positives and improving detection accuracy through behavioral analysis
