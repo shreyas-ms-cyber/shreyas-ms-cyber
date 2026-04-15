@@ -17,12 +17,12 @@ InternCertify - Cybersecurity Training & Internship
 
 [InternCertify.com](https://interncertify.com/) — [Certificate](https://drive.google.com/file/d/12opyuop6kOIRtW1EJHVjc2A1eGNF-g3J/view?usp=drivesdk)
 
-• Performed vulnerability assessments and basic penetration testing in controlled environments, identifying critical security vulnerabilities and recommending mitigation strategies.  
-• Utilized tools such as Nmap and Wireshark for advanced network scanning, packet analysis, and anomaly detection.  
-• Applied OWASP Top 10 principles to identify and remediate web application vulnerabilities including SQL Injection, Cross-Site Scripting (XSS), and CSRF.  
-• Gained hands-on experience in SIEM fundamentals, log analysis, and incident response workflows for real-world threat scenarios.  
-• Strengthened expertise in network security, ethical hacking methodologies, and secure system design principles.  
-
+• Conducted network reconnaissance and service enumeration using Nmap, identifying exposed services, open ports, and potential misconfigurations in controlled environments.  
+• Performed deep packet inspection using Wireshark to analyze network traffic patterns, detect anomalies, and understand protocol-level behavior.  
+• Simulated exploitation of OWASP Top 10 vulnerabilities (SQL Injection, XSS, CSRF) to understand attack vectors and corresponding defensive controls.  
+• Analyzed authentication and system logs to identify indicators of compromise such as brute-force attempts, unauthorized access patterns, and abnormal system behavior.  
+• Gained exposure to SIEM workflows including log ingestion, event correlation concepts, and basic incident triage in simulated SOC environments.  
+• Strengthened understanding of attack lifecycle (reconnaissance → exploitation → detection → response) and its application in defensive security engineering.  
 🔐 Security-Focused Project Development  
 - Engineered **404 Intelligence**, an AI-driven cybersecurity awareness platform that educates users through interactive roasting-based simulations of phishing and social engineering attacks.  
 - Designed and implemented a **Secure File Vault** using encryption techniques and access control mechanisms.  
