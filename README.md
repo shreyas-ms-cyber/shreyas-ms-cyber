@@ -17,14 +17,18 @@ InternCertify - Cybersecurity Training & Internship
 
 [InternCertify.com](https://interncertify.com/) — [Certificate](https://drive.google.com/file/d/12opyuop6kOIRtW1EJHVjc2A1eGNF-g3J/view?usp=drivesdk)
 
-• Conducted network reconnaissance and service enumeration using Nmap, identifying exposed services, open ports, and potential misconfigurations in controlled environments.  
-• Performed deep packet inspection using Wireshark to analyze network traffic patterns, detect anomalies, and understand protocol-level behavior.  
-• Simulated exploitation of OWASP Top 10 vulnerabilities (SQL Injection, XSS, CSRF) to understand attack vectors and corresponding defensive controls.  
-• Analyzed authentication and system logs to identify indicators of compromise such as brute-force attempts, unauthorized access patterns, and abnormal system behavior.  
-• Gained exposure to SIEM workflows including log ingestion, event correlation concepts, and basic incident triage in simulated SOC environments.  
-• Strengthened understanding of attack lifecycle (reconnaissance → exploitation → detection → response) and its application in defensive security engineering.  
+* Performed network reconnaissance using Nmap to identify exposed services, open ports, and misconfigurations in controlled environments.  
+* Conducted packet-level analysis using Wireshark to detect anomalies and understand malicious traffic patterns.  
+* Simulated exploitation of OWASP Top 10 vulnerabilities (SQL Injection, XSS, CSRF) to study attack behavior and defensive countermeasures.  
+* Analyzed authentication and system logs to detect brute-force attempts, unauthorized access, and suspicious login patterns.  
+* Applied SIEM fundamentals including log ingestion concepts, event correlation basics, and incident triage workflows.  
+* Mapped attack lifecycle stages (recon → exploit → persistence → detection → response) for defensive analysis.
 
-
+🔎 Security Detection Engineering & SOC Focus
+* Designed detection logic for identifying brute-force attacks, abnormal authentication patterns, and network anomalies.  
+* Studied attacker techniques to map them into detection rules and defensive monitoring strategies.  
+* Developing SIEM-style monitoring logic for log-based threat detection and alert generation.  
+* Focused on reducing false positives by understanding behavioral patterns in attack scenarios.
 
 🔐 Security-Focused Project Development  
 - Engineered **404 Intelligence – Adversarial Awareness Platform**, an AI-driven system that simulates phishing and social engineering attacks to model real-world attacker behavior and enhance user-level threat detection awareness.  
