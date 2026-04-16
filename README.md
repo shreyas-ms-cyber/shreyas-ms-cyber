@@ -121,31 +121,6 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
   </span>
 </p>
 
- 
-## 📊 GitHub Intelligence Dashboard
-
-<table align="center">
-  <tr>
-    <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-      <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" />
-    </td>
-  </tr>
-</table>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 # 📊 GitHub Intelligence Dashboard
 
 <p align="center">
