@@ -120,7 +120,7 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
     <a href="https://drive.google.com/file/d/1PpEvom1MfAqMURMKBDH47c4Fx2rOMD1d/view?usp=drivesdk">View Certificate</a>
   </span>
 </p>
-# 📊 GitHub Intelligence Dashboard
+## 📊 GitHub Intelligence Dashboard
 
 <p align="center">
   <table>
@@ -142,34 +142,6 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
     </tr>
   </table>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true"/>
 </p>
