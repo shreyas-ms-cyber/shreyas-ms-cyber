@@ -120,8 +120,12 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
     <a href="https://drive.google.com/file/d/1PpEvom1MfAqMURMKBDH47c4Fx2rOMD1d/view?usp=drivesdk">View Certificate</a>
   </span>
 </p>
-## 📊 GitHub Intelligence Dashboard
 
+
+
+
+
+## 🛡️ Cybersecurity Experience
 <p align="center">
   <table>
     <tr>
