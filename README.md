@@ -78,7 +78,8 @@ Threat Modeling, Vulnerability Assessment, Penetration Testing (Foundational), I
 Python (Security Tools Development), JavaScript, Bash Scripting, C/C++  
 
 🌐 **Web Security**  
-OWASP Top 10, XSS, SQL Injection, CSRF, Authentication Bypass, Secure API Design  
+WAF Alert Triage, Web-Traffic Telemetry, OWASP Detection Engineering, Auth-Log Auditing, API Security Monitoring, Threat-Pattern Analysis
+
 
 🛠️ **Security Tools & Frameworks**  
 Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper  
