@@ -125,67 +125,6 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 
 
 
-##  GitHub Intelligence Dashboard
-<p align="center">
-  <table>
-    <tr>
-      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</p>
-<p align="center">
-  <table>
-    <tr>
-      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&theme=github_dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <table>
-    <tr>
-      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 📊 GitHub Intelligence Dashboard
 
@@ -211,8 +150,3 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
