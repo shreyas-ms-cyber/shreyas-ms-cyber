@@ -125,7 +125,7 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 
 
 
-## 🛡️ Cybersecurity Experience
+##  GitHub Intelligence Dashboard
 <p align="center">
   <table>
     <tr>
