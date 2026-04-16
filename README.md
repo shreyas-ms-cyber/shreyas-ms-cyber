@@ -120,7 +120,3 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
     <a href="https://drive.google.com/file/d/1PpEvom1MfAqMURMKBDH47c4Fx2rOMD1d/view?usp=drivesdk">View Certificate</a>
   </span>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true" style="border:2px solid #2f81f7; border-radius:12px; padding:10px;" />
-</p>
