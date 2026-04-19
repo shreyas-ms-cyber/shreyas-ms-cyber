@@ -150,5 +150,3 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true" width="100%"/>
 </p>
-
-  qwertyuioiuyrewq  
