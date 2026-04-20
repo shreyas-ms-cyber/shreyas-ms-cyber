@@ -82,7 +82,7 @@ WAF Alert Triage, Web-Traffic Telemetry, OWASP Detection Engineering, Auth-Log A
 
 
 🛠️ **Security Tools & Frameworks**  
-Nmap, Wireshark, Burp Suite, Metasploit, SQLmap, Nikto, Hydra, John the Ripper  
+Splunk, Wireshark, Nmap, Nessus, Microsoft Defender for Endpoint
 
 🖥️ **Platforms & Environments**  
 Kali Linux, Ubuntu, Windows  
