@@ -153,6 +153,29 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 
 
 
+<p align="center">
+  <table>
+    <tr>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;" colspan="2">
+        <img src="https://streak-stats.demolab.com?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&bg_color=0d1117&title_color=2f81f7&icon_color=2f81f7&text_color=c9d1d9&hide_border=true" />
+      </td>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&bg_color=0d1117&title_color=2f81f7&text_color=c9d1d9&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+
+
 
 
 
