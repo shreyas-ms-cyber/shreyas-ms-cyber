@@ -159,16 +159,6 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 
 
 
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <table>
     <tr>
@@ -176,11 +166,12 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true&cache_seconds=1800" width="100%" />
       </td>
     </tr>
-    <tr> <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyas-ms-cyber&cc=000&tc=fff&ic=2f81f7&bc=000&show_icons=true&cache_seconds=1800" />
+    <tr>
+      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
+        <img src="https://github-stats-alpha.vercel.app/api?username=shreyas-ms-cyber&cc=000&tc=fff&ic=2f81f7&bc=000&cache_seconds=1800" />
       </td>
       <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
       </td>
     </tr>
   </table>
@@ -198,23 +189,9 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 
 
 
-<p align="center">
-  <table>
-    <tr>
-      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;" colspan="2">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true&cache_seconds=1800" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_owner=true&cache_seconds=1800" />
-      </td>
-      <td style="border:2px solid #2f81f7; border-radius:12px; padding:10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
-      </td>
-    </tr>
-  </table>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true&cache_seconds=1800" width="100%"/>
-</p>
+
+
+
+
+
+
