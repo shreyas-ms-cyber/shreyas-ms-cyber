@@ -60,7 +60,7 @@ InternCertify - Cybersecurity Training & Internship
 
 Rajeev Institute of Technology – Hackathon  
 
-Rajeev Institute of Technology — [View 3rd Place Award](PASTE_3RD_PLACE_CERTIFICATE_LINK)
+Rajeev Institute of Technology — [View 3rd Place Award](https://drive.google.com/file/d/1ZwIkwiIgJNF934kw3-kxdS1Vnt3AUBcQ/view?usp=drivesdk)
 
 • Secured **3rd place** in a competitive hackathon, demonstrating strong analytical thinking and technical problem-solving under pressure.  
 • Evaluated real-world problem statements and formulated innovative, scalable solution strategies within strict time constraints.  
