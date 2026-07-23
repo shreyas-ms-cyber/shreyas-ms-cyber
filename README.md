@@ -122,11 +122,14 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
   </span>
 </p>
 
+
 ## 🛡️ Featured Cybersecurity Projects
 
 | Project | Tech Stack | Live Link | Key Achievements |
 |---|---|---|---|
-| **PhishGuard AI**<br>Heuristic Phishing Email Detector | React.js, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/analyze) | Developed a SOC-oriented phishing analysis platform using explainable heuristic detection to identify credential theft, urgency manipulation, suspicious URLs, and phishing indicators with risk-based scoring. |
+| **PhishGuard AI**<br>Heuristic Phishing Email Detector | React.js, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Developed a SOC-oriented phishing analysis platform using explainable heuristic detection to identify credential theft, urgency manipulation, suspicious URLs, and phishing indicators with risk-based scoring. |
+
+
 
 ## 📊 GitHub Intelligence Dashboard 
 
