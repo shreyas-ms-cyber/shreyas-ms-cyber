@@ -87,8 +87,7 @@ Splunk, Wireshark, Nmap, Nessus, Microsoft Defender for Endpoint
 🖥️ **Platforms & Environments**  
 Kali Linux, Ubuntu, Windows  
 
-☁️ **Cloud & DevSecOps**  
-AWS (EC2 Basics), Docker, Git/GitHub, CI/CD Security Concepts 
+
 
 🧪 **Security Operations**  
 Log Analysis, Threat Detection, Security Monitoring, Incident Response, SIEM Fundamentals, Alert Triage, Event Correlation
