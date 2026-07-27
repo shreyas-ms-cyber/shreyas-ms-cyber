@@ -121,6 +121,12 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
   </span>
 </p>
 
+<b>Digital 101 Journey – FutureSkills Prime (NASSCOM)</b>
+  <span style="float:right;">
+    <a href="https://drive.google.com/file/d/1MQY458fldDHqItew6DAia56tTS5AiFQl/view?usp=drivesdk">View Certificate</a>
+  </span>
+</p>
+
 ## 🛡️ Featured Cybersecurity Projects
 
 | Project | Tech Stack | Live Link | Key Achievements |
