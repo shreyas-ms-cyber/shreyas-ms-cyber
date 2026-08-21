@@ -134,7 +134,13 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 | **Password Strength Intelligence Platform**<br>Enterprise Password Security Analysis & Attack Simulation | Python, Flask, JavaScript, Security Analysis | [Live App](https://psip-dashboard.onrender.com/) | Built an enterprise-style password security platform with entropy analysis, health scoring, risk classification, pattern vulnerability detection, password attack simulation, and secure password generation. |
 | **PhishGuard AI**<br>Heuristic Phishing Email Detector | React.js, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Developed a SOC-oriented phishing analysis platform using explainable heuristic detection to identify credential theft, urgency manipulation, suspicious URLs, and phishing indicators with risk-based scoring. |
 
+## 🛡️ Featured Cybersecurity Projects
 
+| Project | Tech Stack | Live Link | Key Achievements |
+|---|---|---|---|
+| **Password Strength Intelligence Platform**<br>Enterprise Password Security Analysis & Attack Simulation | Python, Flask, JavaScript, Security Analysis | [Live App](https://psip-dashboard.onrender.com/) | Built an enterprise-style password security platform with entropy analysis, health scoring, risk classification, pattern vulnerability detection, password attack simulation, and secure password generation. |
+| **PhishGuard AI**<br>Heuristic Phishing Email Detector | React.js, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Developed a SOC-oriented phishing analysis platform using explainable heuristic detection to identify credential theft, urgency manipulation, suspicious URLs, and phishing indicators with risk-based scoring. |
+| **NetSentry – Network Monitoring Dashboard**<br>Hybrid Network Visibility & Security Monitoring Platform | React.js, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Built a SOC-inspired network monitoring platform with a hybrid local-agent architecture for authorized LAN device discovery, port visibility, live packet and bandwidth monitoring, protocol analysis, agent health tracking, and security alerts. |
 
 ## 📊 GitHub Intelligence Dashboard 
 
