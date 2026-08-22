@@ -175,18 +175,11 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
 </p>
 
 <p align="center">
-  <a href="https://github.com/shreyas-ms-cyber">
+  <a href="https://gitpeak.vercel.app/?username=shreyas-ms-cyber">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true"
-      width="49%"
+      src="https://gitpeak.vercel.app/api/readme?username=shreyas-ms-cyber"
+      width="100%"
       alt="GitHub Statistics"
-    />
-  </a>
-  <a href="https://github.com/shreyas-ms-cyber">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
-      width="49%"
-      alt="Top Programming Languages"
     />
   </a>
 </p>
@@ -195,8 +188,6 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true&custom_title=shreyas-ms-cyber%27s%20Contribution%20Graph&radius=8"
     width="100%"
-    alt="shreyas-ms-cyber's GitHub Contribution Graph"
+    alt="GitHub Contribution Graph"
   />
 </p>
-
-
