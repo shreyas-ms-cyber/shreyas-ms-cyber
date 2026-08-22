@@ -162,32 +162,3 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
     alt="shreyas-ms-cyber's GitHub Contribution Graph"
   />
 </p>
-## 📊 GitHub Intelligence Dashboard
-
-<p align="center">
-  <a href="https://github.com/shreyas-ms-cyber">
-    <img
-      src="https://streak-stats.demolab.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true"
-      width="100%"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://gitpeak.vercel.app/?username=shreyas-ms-cyber">
-    <img
-      src="https://gitpeak.vercel.app/api/readme?username=shreyas-ms-cyber"
-      width="100%"
-      alt="GitHub Statistics"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true&custom_title=shreyas-ms-cyber%27s%20Contribution%20Graph&radius=8"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
