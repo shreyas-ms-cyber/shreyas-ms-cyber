@@ -162,3 +162,57 @@ SOC Detection Engine – Detection-driven log analysis system designed to identi
     alt="shreyas-ms-cyber's GitHub Contribution Graph"
   />
 </p>
+
+
+
+## 📊 GitHub Intelligence Dashboard
+
+<p align="center">
+
+  <table>
+    <tr>
+      <td colspan="2" align="center">
+
+        <img
+          src="https://streak-stats.demolab.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true&border_radius=10"
+          width="100%"
+          alt="GitHub Streak Stats"
+        />
+
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center">
+
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&border_radius=10"
+          width="100%"
+          alt="GitHub Statistics"
+        />
+
+      </td>
+
+      <td align="center">
+
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10"
+          width="100%"
+          alt="Top Languages"
+        />
+
+      </td>
+    </tr>
+  </table>
+
+</p>
+
+<p align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area_color=2f81f7&area=true&hide_border=true&custom_title=shreyas-ms-cyber%27s%20Contribution%20Graph"
+    width="100%"
+    alt="shreyas-ms-cyber GitHub Contribution Graph"
+  />
+
+</p>
