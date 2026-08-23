@@ -95,3 +95,26 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true&custom_title=shreyas-ms-cyber%27s%20Contribution%20Graph&radius=8" width="100%" alt="Contribution Graph"/>
 </p>
+
+
+
+## 🔗 Certifications
+
+<table width="100%">
+<tr>
+<th width="70%">Certification</th>
+<th width="30%">Link</th>
+</tr>
+<tr>
+<td>Junior Cybersecurity Analyst – Cisco</td>
+<td><a href="https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk">View</a></td>
+</tr>
+<tr>
+<td>Hackathon Participation – Rajeev Institute of Technology</td>
+<td><a href="https://drive.google.com/file/d/1PpEvom1MfAqMURMKBDH47c4Fx2rOMD1d/view?usp=drivesdk">View</a></td>
+</tr>
+<tr>
+<td>Digital 101 Journey – FutureSkills Prime (NASSCOM)</td>
+<td><a href="https://drive.google.com/file/d/1MQY458fldDHqItew6DAia56tTS5AiFQl/view?usp=drivesdk">View</a></td>
+</tr>
+</table>
