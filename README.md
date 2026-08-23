@@ -1,6 +1,3 @@
-
-
-
 ### 💫 About Me
 
 I build tools that catch what attackers try to hide — from phishing emails to brute-force attempts — before they do damage.
@@ -83,7 +80,7 @@ Secured 3rd place among **[X]** teams, building **[a one-line description of wha
 ## 📊 GitHub Intelligence Dashboard
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
 </p>
 
 <table>
@@ -100,4 +97,3 @@ Secured 3rd place among **[X]** teams, building **[a one-line description of wha
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true&custom_title=shreyas-ms-cyber%27s%20Contribution%20Graph&radius=8" width="100%" alt="Contribution Graph"/>
 </p>
-
