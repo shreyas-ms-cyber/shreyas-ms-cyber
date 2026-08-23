@@ -23,7 +23,7 @@ I analyze system and network telemetry to identify indicators of compromise, sim
 - Mapped the attack lifecycle (recon → exploit → persistence → detection → response)
 
 **🔎 Detection Engineering Focus**
-Designed detection logic for brute-force and abnormal auth patterns, mapped attacker techniques to monitoring strategies, and reduced false positives by **[X%]** through behavioral analysis tuning.
+Designed detection logic for brute-force and abnormal auth patterns, mapped attacker techniques to monitoring strategies, and tuned behavioral analysis to actively reduce false positives.
 
 **🔐 Security Projects**
 - **404 Intelligence** – AI-driven platform simulating phishing/social engineering attacks, modeling attacker behavior to improve user-level threat awareness
@@ -35,7 +35,7 @@ Designed detection logic for brute-force and abnormal auth patterns, mapped atta
 
 **Rajeev Institute of Technology** — [3rd Place Award](https://drive.google.com/file/d/1ZwIkwiIgJNF934kw3-kxdS1Vnt3AUBcQ/view?usp=drivesdk)
 
-Secured 3rd place among **[X]** teams, building **[a one-line description of what the solution actually did]** in under **[X hours]** — from problem analysis to working prototype to judge presentation.
+Secured **3rd place** with **Team Codemate**, building **Toolmate** — an all-in-one platform consolidating multiple everyday productivity and utility tools into a single, unified interface. Took the idea from problem analysis to a working prototype and delivered it live to the judges under competition time pressure.
 
 ---
 
@@ -71,9 +71,9 @@ Secured 3rd place among **[X]** teams, building **[a one-line description of wha
 
 | Project | Tech Stack | Live Link | Highlights |
 |---|---|---|---|
-| **Password Strength Intelligence Platform** | Python, Flask, JavaScript | [Live App](https://psip-dashboard.onrender.com/) | Entropy analysis, health scoring, risk classification, and attack simulation across **[X]** password patterns; generates cryptographically secure passwords |
-| **PhishGuard AI** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic phishing detector with **[X%]** accuracy on test emails; flags credential theft, urgency manipulation, and suspicious URLs with explainable risk scoring |
-| **NetSentry** | React, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Hybrid local-agent LAN monitoring covering **[X]** devices; live packet/bandwidth analysis with sub-**[X]**-second alerting on anomalous traffic |
+| **Password Strength Intelligence Platform** | Python, Flask, JavaScript | [Live App](https://psip-dashboard.onrender.com/) | Entropy analysis, health scoring, risk classification, and attack simulation with secure password generation |
+| **PhishGuard AI** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic phishing detector flagging credential theft, urgency manipulation, and suspicious URLs with explainable risk scoring |
+| **NetSentry** | React, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Hybrid local-agent LAN monitoring with live packet/bandwidth analysis and real-time security alerting |
 
 ---
 
