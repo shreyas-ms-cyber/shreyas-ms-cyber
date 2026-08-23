@@ -1,16 +1,16 @@
 ### 💫 About Me
 
-I build tools that catch what attackers try to hide — from phishing emails to brute-force attempts — before they do damage.
+I build systems that catch what attackers try to hide — from phishing emails to brute-force attempts — before they cause damage.
 
-**Cyber Security Analyst** | SOC Operations | Threat Detection Engineering | SIEM & Log Analysis | Incident Response | Adversary Simulation
+**Cybersecurity Student** | Aspiring SOC Analyst | Threat Detection Engineering | SIEM & Log Analysis | Incident Response
 
 I analyze system and network telemetry to identify indicators of compromise, simulate adversarial behavior, and build detection-driven defense mechanisms. My work bridges offensive security techniques with defensive monitoring to strengthen real-time threat visibility and response.
 
-📬 [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com) | [📄 Resume](https://drive.google.com/file/d/1ysRHnzhVZUXzN9oHuNts6-ymWh-GHWWn/view?usp=drivesdk)
+📬 [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) · [Email](mailto:shreyasvaishnav40@gmail.com) · [Resume](https://drive.google.com/file/d/1ysRHnzhVZUXzN9oHuNts6-ymWh-GHWWn/view?usp=drivesdk)
 
 ---
 
-## 🛡️ Cybersecurity Experience
+## Cybersecurity Experience
 
 **Cybersecurity Intern** — InternCertify
 [InternCertify.com](https://interncertify.com/) · [Certificate](https://drive.google.com/file/d/12opyuop6kOIRtW1EJHVjc2A1eGNF-g3J/view?usp=drivesdk)
@@ -20,40 +20,40 @@ I analyze system and network telemetry to identify indicators of compromise, sim
 - Simulated OWASP Top 10 exploits (SQLi, XSS, CSRF) to study attack/defense behavior
 - Analyzed auth and system logs to detect brute-force attempts and unauthorized access
 - Applied SIEM fundamentals — log ingestion, event correlation, incident triage
-- Mapped the attack lifecycle (recon → exploit → persistence → detection → response)
+- Mapped the attack lifecycle: recon → exploit → persistence → detection → response
 
-**🔎 Detection Engineering Focus**
-Designed detection logic for brute-force and abnormal auth patterns, mapped attacker techniques to monitoring strategies, and tuned behavioral analysis to actively reduce false positives.
-
----
-
-## 🏆 Hackathon Achievements
-
-**Rajeev Institute of Technology** — [3rd Place Award](https://drive.google.com/file/d/1ZwIkwiIgJNF934kw3-kxdS1Vnt3AUBcQ/view?usp=drivesdk)
-
-Secured **3rd place** with **Team Codemate**, building **Toolmate** — an all-in-one platform consolidating multiple everyday productivity and utility tools into a single, unified interface. Took the idea from problem analysis to a working prototype and delivered it live to the judges under competition time pressure.
+**Detection Engineering Focus**
+Designed detection logic for brute-force and abnormal auth patterns, mapped attacker techniques to monitoring strategies using the MITRE ATT&CK framework, and tuned behavioral detection rules to improve alert quality and minimize false positives.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Hackathon Achievements
 
-**🔐 Cybersecurity:** Threat Modeling, Vulnerability Assessment, Foundational Pen Testing, Incident Response, Detection Strategy Development
+**Rajeev Institute of Technology — 24-Hour Hackathon** — [3rd Place Award](https://drive.google.com/file/d/1ZwIkwiIgJNF934kw3-kxdS1Vnt3AUBcQ/view?usp=drivesdk)
 
-**💻 Programming:** Python, JavaScript, Bash, C/C++
-
-**🌐 Web Security:** WAF Alert Triage, OWASP Detection Engineering, Auth-Log Auditing, API Security Monitoring
-
-**🛠️ Tools:** Splunk, Wireshark, Nmap, Nessus, Microsoft Defender for Endpoint
-
-**🖥️ Platforms:** Kali Linux, Ubuntu, Windows
-
-**🔑 Cryptography:** Hashing, Encryption, Password Security, MFA
-
-**📊 Database Security:** MySQL, MongoDB (Access Control & Hardening)
+Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified productivity platform consolidating multiple everyday utility tools into a single interface, built and shipped in 24 hours. Owned the project from problem analysis through a working prototype, presented live to judges under competition time pressure.
 
 ---
 
-## 🪪 Certifications
+## Technical Arsenal
+
+**Cybersecurity:** Threat Modeling · Vulnerability Assessment · Foundational Pen Testing · Incident Response · Detection Strategy Development
+
+**Programming:** Python · JavaScript · Bash · C/C++
+
+**Web Security:** WAF Alert Triage · OWASP Detection Engineering · Auth-Log Auditing · API Security Monitoring
+
+**Tools:** Splunk · Wireshark · Nmap · Nessus · Microsoft Defender for Endpoint
+
+**Platforms:** Kali Linux · Ubuntu · Windows
+
+**Cryptography:** Hashing · Encryption · Password Security · MFA
+
+**Databases:** PostgreSQL · MySQL · MongoDB
+
+---
+
+## Certifications
 
 | Certification | Link |
 |---|---|
@@ -63,17 +63,19 @@ Secured **3rd place** with **Team Codemate**, building **Toolmate** — an all-i
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Tech Stack | Live Link | Highlights |
 |---|---|---|---|
-| **Password Strength Intelligence Platform** | Python, Flask, JavaScript | [Live App](https://psip-dashboard.onrender.com/) | Entropy analysis, health scoring, risk classification, and attack simulation with secure password generation |
-| **PhishGuard AI** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic phishing detector flagging credential theft, urgency manipulation, and suspicious URLs with explainable risk scoring |
 | **NetSentry** | React, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Hybrid local-agent LAN monitoring with live packet/bandwidth analysis and real-time security alerting |
+| **PhishGuard** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic-based phishing detector (no ML model required) flagging credential theft, urgency manipulation, and suspicious URLs with explainable risk scoring |
+| **Password Strength Intelligence Platform** | Python, Flask, JavaScript | [Live App](https://psip-dashboard.onrender.com/) | Entropy analysis, health scoring, risk classification, and attack simulation with secure password generation |
+
+📌 **[View source code for all projects →](https://github.com/shreyas-ms-cyber?tab=repositories)**
 
 ---
 
-## 📊 GitHub Intelligence Dashboard
+## GitHub Intelligence Dashboard
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
