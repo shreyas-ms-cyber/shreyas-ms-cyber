@@ -6,7 +6,7 @@ I build tools that catch what attackers try to hide — from phishing emails to 
 
 I analyze system and network telemetry to identify indicators of compromise, simulate adversarial behavior, and build detection-driven defense mechanisms. My work bridges offensive security techniques with defensive monitoring to strengthen real-time threat visibility and response.
 
-📬 [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com)
+📬 [LinkedIn](https://www.linkedin.com/in/shreyas-m-s-cyber) | [Email](mailto:shreyasvaishnav40@gmail.com) | [📄 Resume](https://drive.google.com/file/d/1ysRHnzhVZUXzN9oHuNts6-ymWh-GHWWn/view?usp=drivesdk)
 
 ---
 
@@ -25,6 +25,7 @@ I analyze system and network telemetry to identify indicators of compromise, sim
 **🔎 Detection Engineering Focus**
 Designed detection logic for brute-force and abnormal auth patterns, mapped attacker techniques to monitoring strategies, and tuned behavioral analysis to actively reduce false positives.
 
+---
 
 ## 🏆 Hackathon Achievements
 
