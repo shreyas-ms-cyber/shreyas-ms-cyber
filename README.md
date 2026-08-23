@@ -80,16 +80,10 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 |---|---|---|---|
 | **NetSentry** | React, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Hybrid local-agent LAN monitoring with live packet/bandwidth analysis and real-time security alerting |
 | **PhishGuard** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic-based phishing detector (no ML model required) flagging credential theft, urgency manipulation, and suspicious URLs with explainable risk scoring |
-
-
-
 | **Password Strength Intelligence Platform** | Python, Flask, JavaScript | [Live App](https://psip-dashboard.onrender.com/) | Entropy analysis, health scoring, risk classification, and attack simulation with secure password generation |
-| **PhishGuard** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic-based phishing detector (no ML model required) flagging credential theft, urgency manipulation, and suspicious URLs with explainable risk scoring |
-| **NetSentry** | React, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Hybrid local-agent LAN monitoring with live packet/bandwidth analysis and real-time security alerting |
 
 📌 **[View source code for all projects →](https://github.com/shreyas-ms-cyber?tab=repositories)**
 
----
 
 ## GitHub Intelligence Dashboard
 
