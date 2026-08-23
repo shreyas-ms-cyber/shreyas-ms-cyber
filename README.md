@@ -127,3 +127,27 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 <td><a href="https://drive.google.com/file/d/1MQY458fldDHqItew6DAia56tTS5AiFQl/view?usp=drivesdk">View</a></td>
 </tr>
 </table>
+
+
+
+
+## 🔗 Certifications
+
+<table width="900">
+<tr>
+<th width="650" align="center">Certification</th>
+<th width="250" align="center">Link</th>
+</tr>
+<tr>
+<td align="center">Junior Cybersecurity Analyst – Cisco</td>
+<td align="center"><a href="https://drive.google.com/file/d/1TzLqifQ0AMZvby2A3suHNKLrdDuqIFy3/view?usp=drivesdk">View</a></td>
+</tr>
+<tr>
+<td align="center">Hackathon Participation – Rajeev Institute of Technology</td>
+<td align="center"><a href="https://drive.google.com/file/d/1PpEvom1MfAqMURMKBDH47c4Fx2rOMD1d/view?usp=drivesdk">View</a></td>
+</tr>
+<tr>
+<td align="center">Digital 101 Journey – FutureSkills Prime (NASSCOM)</td>
+<td align="center"><a href="https://drive.google.com/file/d/1MQY458fldDHqItew6DAia56tTS5AiFQl/view?usp=drivesdk">View</a></td>
+</tr>
+</table>
