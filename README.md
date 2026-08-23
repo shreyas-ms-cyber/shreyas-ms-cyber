@@ -25,11 +25,6 @@ I analyze system and network telemetry to identify indicators of compromise, sim
 **🔎 Detection Engineering Focus**
 Designed detection logic for brute-force and abnormal auth patterns, mapped attacker techniques to monitoring strategies, and tuned behavioral analysis to actively reduce false positives.
 
-**🔐 Security Projects**
-- **404 Intelligence** – AI-driven platform simulating phishing/social engineering attacks, modeling attacker behavior to improve user-level threat awareness
-- **Secure File Vault** – Encryption and access-control system protecting sensitive data against unauthorized access
-
----
 
 ## 🏆 Hackathon Achievements
 
