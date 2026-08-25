@@ -86,6 +86,19 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 📌 **[View source code for all projects →](https://github.com/shreyas-ms-cyber?tab=repositories)**
 
 
+
+## 🚀 Featured Cybersecurity Projects
+
+| Project | Tech Stack | Live Link | Highlights |
+|---|---|---|---|
+| **Password Strength Intelligence Platform** | Python, Flask, JavaScript | [Live App](https://psip-dashboard.onrender.com/) | Entropy analysis, health scoring, risk classification, attack simulation, and secure password generation |
+| **PhishGuard** | React, Flask, Python, PostgreSQL, JWT | [Live App](https://phishguard-ai-sooty-ten.vercel.app/) | Heuristic-based phishing detection with explainable risk scoring for credential theft, urgency manipulation, and suspicious URLs |
+| **NetSentry** | React, Flask, Python, PostgreSQL, Scapy, Chart.js | [Live App](https://net-sentry-two.vercel.app/) | Hybrid local-agent LAN monitoring with live packet and bandwidth analysis, network visibility, and real-time security alerting |
+| **CyberAware** | React, Flask, Python, PostgreSQL, JavaScript | [Live App](https://cyberaware-rust.vercel.app/) | Cybersecurity awareness and human-risk defense platform featuring interactive security training, realistic threat simulations, gamified challenges, and behavioral risk insights |
+
+📌 **[View source code for all projects →](https://github.com/shreyas-ms-cyber?tab=repositories)**
+
+
 ## GitHub Intelligence Dashboard
 
 <p align="center">
