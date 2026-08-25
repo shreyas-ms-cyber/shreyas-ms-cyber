@@ -103,7 +103,3 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 </tr>
 </table>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ms-cyber&theme=github-dark&hide_border=true&area=true&custom_title=shreyas-ms-cyber%27s%20Contribution%20Graph&radius=8" width="100%" alt="Contribution Graph"/>
-</p>
-
