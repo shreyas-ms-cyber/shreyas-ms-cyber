@@ -52,7 +52,7 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 **Databases:** PostgreSQL · MySQL · MongoDB
 
 
-## 🔗 Certifications
+## Certifications
 
 <table width="900">
 <tr>
