@@ -74,7 +74,7 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 </table>
 
 
-## 🚀 Featured Cybersecurity Projects
+## Featured Cybersecurity Projects
 
 | Project | Tech Stack | Live Link | Highlights |
 |---|---|---|---|
