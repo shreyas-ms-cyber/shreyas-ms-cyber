@@ -131,3 +131,27 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
     </td>
   </tr>
 </table>
+
+
+## 📊 GitHub Intelligence Dashboard
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shreyas-ms-cyber&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="GitHub Statistics"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ms-cyber&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Programming Languages"
+    width="49%"
+  />
+</p>
