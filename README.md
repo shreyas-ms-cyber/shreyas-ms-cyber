@@ -92,6 +92,12 @@ Secured 3rd place with **Team Codemate**, building **Toolmate** — a unified pr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true" width="100%" alt="GitHub Streak Stats"/>
 </p>
 
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=shreyas-ms-cyber&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 <table>
 <tr>
 <td align="center" width="50%">
